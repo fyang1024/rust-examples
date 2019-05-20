@@ -1,0 +1,7 @@
+[package]
+name = "rustexamples"
+version = "0.1.0"
+authors = ["fyang1024 <fyang1024@gmail.com>"]
+edition = "2018"
+
+[dependencies]
